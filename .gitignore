@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# System
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.njsproj
+*.sln
