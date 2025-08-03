@@ -11,7 +11,7 @@ const Home = () => {
     const fetchDoctors = async () => {
       setLoading(true); // start loading
       try {
-        const response = await fetch("http://localhost:3000/doctors");
+        const response = await fetch("https://docq-xu1o.onrender.com/doctors");
         const data = await response.json();
         setDoctors(data);
       } catch (error) {
