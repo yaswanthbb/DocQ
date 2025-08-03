@@ -68,7 +68,7 @@ const DoctorProfile = () => {
   useEffect(() => {
     const fetchDoctorProfile = async () => {
       const response = await fetch(
-        `http://https://docq-xu1o.onrender.com/doctor-profile/${id}`
+        `https://docq-xu1o.onrender.com/doctor-profile/${id}`
       );
       const data = await response.json();
       console.log(data);
