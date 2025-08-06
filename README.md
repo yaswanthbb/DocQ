@@ -79,7 +79,7 @@ npm run dev
 
 The application is deployed and accessible online:
 
-Frontend Live URL: https://doc-jxpbfmmdh-yaswanthbbs-projects.vercel.app/
+Frontend Live URL: https://doc-q-git-main-yaswanthbbs-projects.vercel.app/
 
 Backend API URL: https://docq-xu1o.onrender.com/doctors
 
